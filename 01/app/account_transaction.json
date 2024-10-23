@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "name": "DEPOSIT to Savings",
+        "user_id": 14,
+        "account_id": 1,
+        "amount": 753.45,
+        "transaction_type": "DEPOSIT"
+    },
+    {
+        "id": 2,
+        "name": "WITHDRAWAL",
+        "user_id": 14,
+        "account_id": 1,
+        "amount": 150.23,
+        "transaction_type": "WITHDRAW"
+    },
+    {
+        "id": 3,
+        "name": "DEPOSIT to Savings",
+        "user_id": 73,
+        "account_id": 2,
+        "amount": 219.91,
+        "transaction_type": "DEPOSIT"
+    },
+    {
+        "id": 4,
+        "name": "WITHDRAWAL",
+        "user_id": 41,
+        "account_id": 3,
+        "amount": 982.67,
+        "transaction_type": "WITHDRAW"
+    },
+    {
+        "id": 5,
+        "name": "DEPOSIT to Savings",
+        "user_id": 28,
+        "account_id": 4,
+        "amount": 15.23,
+        "transaction_type": "DEPOSIT"
+    },
+    {
+        "id": 6,
+        "name": "WITHDRAWAL",
+        "user_id": 85,
+        "account_id": 5,
+        "amount": 467.19,
+        "transaction_type": "WITHDRAW"
+    },
+    {
+        "id": 7,
+        "name": "DEPOSIT to Savings",
+        "user_id": 14,
+        "account_id": 1,
+        "amount": 123.45,
+        "transaction_type": "DEPOSIT"
+    },
+    {
+        "id": 8,
+        "name": "WITHDRAWAL",
+        "user_id": 73,
+        "account_id": 2,
+        "amount": 219.91,
+        "transaction_type": "WITHDRAW"
+    },
+    {
+        "id": 9,
+        "name": "DEPOSIT to Savings",
+        "user_id": 41,
+        "account_id": 3,
+        "amount": 982.67,
+        "transaction_type": "DEPOSIT"
+    },
+    {
+        "id": 10,
+        "name": "WITHDRAWAL",
+        "user_id": 28,
+        "account_id": 4,
+        "amount": 15.23,
+        "transaction_type": "WITHDRAW"
+    },
+    {
+        "id": 11,
+        "name": "DEPOSIT to Savings",
+        "user_id": 85,
+        "account_id": 5,
+        "amount": 467.19,
+        "transaction_type": "DEPOSIT"
+    },
+    {
+        "id": 1213,
+        "name": "",
+        "user_id": 1,
+        "account_id": 1,
+        "amount": 200.0,
+        "transaction_type": "DEPOSIT"
+    },
+    {
+        "id": 1213,
+        "name": "",
+        "user_id": 1,
+        "account_id": 1,
+        "amount": 700.0,
+        "transaction_type": "TRANSFERENCE"
+    }
+]
